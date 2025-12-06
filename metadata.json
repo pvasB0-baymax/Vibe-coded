@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Food Freshness AI",
+  "description": "Analyze food quality, ripeness, and shelf life using Gemini 2.5 Flash image analysis.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
